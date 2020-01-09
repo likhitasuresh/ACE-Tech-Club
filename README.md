@@ -1,7 +1,7 @@
-## ACE-Tech-Club
+# **ACE-Tech-Club**
 Official page of the Advanced Contemporary and Emerging Technology club, at New Horizon College of Engineering.
 
-# **Entretien**
+## **Entretien**
 Official URL for Entretien:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/entretien/
 
@@ -13,7 +13,7 @@ To conduct an event that can provide participants with a mock interview.
 **Statement of purpose**  
 The event was aimed to provide a simulation of a job placement. All the students of the college were allowed to take part in this event; as a result the technical round was not limited to the Computer Science field. Multiple students participated in this three round event. The first round consisted of aptitude questions. The participants had one minute to solve each question and they were given twenty questions. The participants were then asked to solve fifteen technical questions, in round two. Upon calculating the results for both round one and round two, certain participants were eligible to take part in the third round, which was the Group Discussion round.
 
-# **Blank Coding**
+## **Blank Coding**
 Official URL for Blank Coding:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/blank-coding/
 
