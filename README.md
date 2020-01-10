@@ -6,7 +6,7 @@ Official URL for Entretien:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/entretien/
 
 
-![Entretien](Entretien poster-1.png)
+![Entretien](screenshots/ep.png)
 
 **Held On**: 5th October, 2018.
 
