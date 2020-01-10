@@ -5,6 +5,9 @@ Official page of the Advanced Contemporary and Emerging Technology club, at New 
 Official URL for Entretien:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/entretien/
 
+
+![Entretien](screenshots/bcp)
+
 **Held On**: 5th October, 2018.
 
 **Objective**  
