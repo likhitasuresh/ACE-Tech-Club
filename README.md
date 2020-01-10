@@ -6,7 +6,7 @@ Official URL for Entretien:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/entretien/
 
 
-![Entretien](screenshots/bcp)
+![Entretien](Entretien poster-1.png)
 
 **Held On**: 5th October, 2018.
 
@@ -19,6 +19,8 @@ The event was aimed to provide a simulation of a job placement. All the students
 ## **Blank Coding**
 Official URL for Blank Coding:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/blank-coding/
+
+![Blank Coding](screenshots/bcp.png)
 
 **Held On**: 5th October, 2018.
 
