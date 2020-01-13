@@ -1,6 +1,8 @@
 # **ACE-Tech-Club**
 Official page of the Advanced Contemporary and Emerging Technology club, at New Horizon College of Engineering.
 
+Dated: Jan-Dec 2018
+
 ## **Entretien**
 Official URL for Entretien:
 http://newhorizonindia.edu/co-curricular/acetech/2018/12/07/entretien/
